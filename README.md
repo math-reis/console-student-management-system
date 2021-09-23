@@ -1,8 +1,11 @@
 # Login Registration Backend
 
 **Language:** Java 16
+
 **Project:** Maven
+
 **Spring Boot:** 2.5.4
+
 **Packaging:** Jar
 
 ### Dependencies
